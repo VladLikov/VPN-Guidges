@@ -1,25 +1,25 @@
 [
   {
     "id": "widgets",
-    "title": "Как добавить виджеты",
+    "title": "1️⃣ Как добавить виджеты",
     "subtitle": "Home Screen, Lock Screen и Control Center",
     "file": "01-widgets.md"
   },
   {
     "id": "shortcuts",
-    "title": "Как настроить Shortcuts",
+    "title": "2️⃣ Как настроить Shortcuts",
     "subtitle": "Быстрые команды для ВПН — и точка",
     "file": "02-shortcuts.md"
   },
   {
     "id": "action-button",
-    "title": "VPN на Action Button",
+    "title": "3️⃣ VPN на Action Button",
     "subtitle": "Запуск ВПН — и точка с кнопки действия",
     "file": "03-action-button-vpn.md"
   },
   {
     "id": "auto-vpn-apps",
-    "title": "Автовключение VPN для приложений",
+    "title": "4️⃣ Автовключение VPN для приложений",
     "subtitle": "Автоматизация через Shortcuts",
     "file": "04-auto-vpn-apps.md"
   }
