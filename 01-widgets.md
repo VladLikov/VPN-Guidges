@@ -60,4 +60,4 @@ Lock Screen — это экран блокировки. На нем удобно
 4. Перезагрузите iPhone.
 5. Попробуйте добавить виджет повторно.
 
-<img width="1206" height="331" alt="IMG_7628" src="https://github.com/user-attachments/assets/a1d72d24-76df-43a7-82de-837fc01c9943" />
+![Добавление виджета](images/add-widget.png)
